@@ -1,6 +1,5 @@
 package com.example.mobidoc.ui.Appointment;
 
-import androidx.lifecycle.Lifecycle;
 import androidx.test.ext.junit.rules.ActivityScenarioRule;
 
 import com.example.mobidoc.R;
@@ -11,9 +10,7 @@ import org.junit.Before;
 import org.junit.Rule;
 import org.junit.Test;
 
-import static junit.framework.Assert.assertFalse;
-import static junit.framework.Assert.assertTrue;
-
+//test
 public class BookingTest {
 
         @Rule
